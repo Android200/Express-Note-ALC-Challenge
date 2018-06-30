@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "788190687527",
+    "firebase_url": "https://express-note.firebaseio.com",
+    "project_id": "express-note",
+    "storage_bucket": "express-note.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788190687527:android:874ca79aa84a72de",
+        "android_client_info": {
+          "package_name": "com.alc.app.expressnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788190687527-5n0ufcfnubmf8s4elp4h7bo56bho6egs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJjeSDzC3KbcJbcRjgjgbGnSX-5ucyJOk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
